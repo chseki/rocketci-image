@@ -1,9 +1,10 @@
 # :rocket: Rocketchat-ci Image
-<p align="center">
- <img src="https://img.shields.io/docker/cloud/build/chseki/rocketchat-app-deploy" alt="build status"></a>
-</p>
 
-    This is the Git repo of the Docker image used for automate deployment of `rocketchat apps`.
+This is the Git repo of the Docker image used for automate deployment of **`rocketchat apps`** .
+
+<p align="center">
+  <img src="https://img.shields.io/docker/cloud/build/chseki/rocketchat-app-deploy" alt="build status"></a>
+</p>
 
 
 ### :book:  Environment Variables 
