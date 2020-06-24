@@ -14,7 +14,7 @@ This is the Git repo of the Docker image used for automate deployment of **`rock
     APP_PATH
     
 >APP_PATH indicates the bot project folder with contains **`app.json`** file.
----
+
 
 ### :computer: Example on circle-ci
 
