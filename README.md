@@ -19,11 +19,12 @@ This is the Git repo of the Docker image used for automate deployment of **`rock
 ### :computer: Example on circle-ci
 
     jobs:
-      rocket-deploy:
+      rocketchat-deploy:
         docker:
           - image: chseki/rocketchat-app-deploy
         steps:
           - checkout
           - run:
-              name: Test k8s deploy
+              name: Rocketchat Deploy
               command: app_deploy
+        
